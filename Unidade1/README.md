@@ -1,6 +1,6 @@
 # Atividades 1
 
-Nota: 
+Nota: 10,0  
 [x] Bruna Lauschner  
 [x] Julia Letícia Trapp  
 [x] Pedro Henrique de Oliveira Cintra  
