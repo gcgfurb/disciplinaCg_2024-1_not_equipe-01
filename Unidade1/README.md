@@ -7,7 +7,7 @@ Nota: 10,0
 
 ## Assunto: Visualização Científica  
 
-[Equipe-01.pdf](Equipe-01.pdf)  
+[Slides.pdf](Slides.pdf)  
 
 VCi e não VC.  
 Gostei dos slides.  
