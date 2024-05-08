@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "7i/WpOZ5343kA8dpqEN1BZvPRfQ8lf8fvUJXxfTwShHBEENzknk6RclzFtNnPrw6DkM0T4IaXVu3RfusnA+BQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruna\\OneDrive - FURB\\FURB\\7Fase\\CG_2024_1-main\\CG_2024_1-main\\Unidade2\\CG_N2_2\\CG_N2_Exemplo\\CG_N2_Exemplo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruna\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\opentk\\4.8.2\\opentk.4.8.2.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\opentk.audio.openal\\4.8.2\\opentk.audio.openal.4.8.2.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\opentk.compute\\4.8.2\\opentk.compute.4.8.2.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\opentk.core\\4.8.2\\opentk.core.4.8.2.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\opentk.graphics\\4.8.2\\opentk.graphics.4.8.2.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\opentk.input\\4.8.2\\opentk.input.4.8.2.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\opentk.mathematics\\4.8.2\\opentk.mathematics.4.8.2.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\opentk.redist.glfw\\3.3.8.39\\opentk.redist.glfw.3.3.8.39.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\opentk.windowing.common\\4.8.2\\opentk.windowing.common.4.8.2.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\opentk.windowing.desktop\\4.8.2\\opentk.windowing.desktop.4.8.2.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.8.2\\opentk.windowing.graphicslibraryframework.4.8.2.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\stbimagesharp\\2.27.13\\stbimagesharp.2.27.13.nupkg.sha512",
+    "C:\\Users\\bruna\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
