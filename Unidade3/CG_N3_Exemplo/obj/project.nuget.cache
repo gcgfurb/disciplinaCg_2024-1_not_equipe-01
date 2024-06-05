@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "jIb2EmFiwO2lN8FCzAjcEC7HwiLTzexyali3hvCA/sKiSy4UT0llG9qXhfxxM7O+pMB9nu1gYLsjq4wxzjJE6w==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\julia\\Desktop\\Furb\\Semestre 7\\Computação Gráfica\\Unidade3\\CG_N3_Exemplo\\CG_N3_Exemplo.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\julia\\Desktop\\Furb\\Semestre 7\\Computação Gráfica\\CG_Biblioteca\\CG_Biblioteca.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\julia\\Desktop\\Furb\\Semestre 7\\Computação Gráfica\\CG_Biblioteca\\CG_Biblioteca.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
