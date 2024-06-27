@@ -1,0 +1,24 @@
+C:\Users\bruna\OneDrive - FURB\FURB\7Fase\ComputacaoGrafica\CG_2024_1-main\CG_Biblioteca\bin\Debug\net8.0\CG_Biblioteca.deps.json
+C:\Users\bruna\OneDrive - FURB\FURB\7Fase\ComputacaoGrafica\CG_2024_1-main\CG_Biblioteca\bin\Debug\net8.0\CG_Biblioteca.dll
+C:\Users\bruna\OneDrive - FURB\FURB\7Fase\ComputacaoGrafica\CG_2024_1-main\CG_Biblioteca\bin\Debug\net8.0\CG_Biblioteca.pdb
+C:\Users\bruna\OneDrive - FURB\FURB\7Fase\ComputacaoGrafica\CG_2024_1-main\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\bruna\OneDrive - FURB\FURB\7Fase\ComputacaoGrafica\CG_2024_1-main\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruna\OneDrive - FURB\FURB\7Fase\ComputacaoGrafica\CG_2024_1-main\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\bruna\OneDrive - FURB\FURB\7Fase\ComputacaoGrafica\CG_2024_1-main\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.AssemblyInfo.cs
+C:\Users\bruna\OneDrive - FURB\FURB\7Fase\ComputacaoGrafica\CG_2024_1-main\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\bruna\OneDrive - FURB\FURB\7Fase\ComputacaoGrafica\CG_2024_1-main\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.dll
+C:\Users\bruna\OneDrive - FURB\FURB\7Fase\ComputacaoGrafica\CG_2024_1-main\CG_Biblioteca\obj\Debug\net8.0\refint\CG_Biblioteca.dll
+C:\Users\bruna\OneDrive - FURB\FURB\7Fase\ComputacaoGrafica\CG_2024_1-main\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.pdb
+C:\Users\bruna\OneDrive - FURB\FURB\7Fase\ComputacaoGrafica\CG_2024_1-main\CG_Biblioteca\obj\Debug\net8.0\ref\CG_Biblioteca.dll
+D:\Faculdade\CG\CG_2024_1-main\CG_Biblioteca\bin\Debug\net8.0\CG_Biblioteca.deps.json
+D:\Faculdade\CG\CG_2024_1-main\CG_Biblioteca\bin\Debug\net8.0\CG_Biblioteca.dll
+D:\Faculdade\CG\CG_2024_1-main\CG_Biblioteca\bin\Debug\net8.0\CG_Biblioteca.pdb
+D:\Faculdade\CG\CG_2024_1-main\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.csproj.AssemblyReference.cache
+D:\Faculdade\CG\CG_2024_1-main\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\CG\CG_2024_1-main\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.AssemblyInfoInputs.cache
+D:\Faculdade\CG\CG_2024_1-main\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.AssemblyInfo.cs
+D:\Faculdade\CG\CG_2024_1-main\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.csproj.CoreCompileInputs.cache
+D:\Faculdade\CG\CG_2024_1-main\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.dll
+D:\Faculdade\CG\CG_2024_1-main\CG_Biblioteca\obj\Debug\net8.0\refint\CG_Biblioteca.dll
+D:\Faculdade\CG\CG_2024_1-main\CG_Biblioteca\obj\Debug\net8.0\CG_Biblioteca.pdb
+D:\Faculdade\CG\CG_2024_1-main\CG_Biblioteca\obj\Debug\net8.0\ref\CG_Biblioteca.dll
